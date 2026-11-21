@@ -1,8 +1,8 @@
 class Allot < Formula
   desc "Coordinates heavy jobs between the Claude Code sessions on one machine"
   homepage "https://github.com/meh7an/allot"
-  url "https://github.com/meh7an/allot/releases/download/v0.5.0/allot-0.5.0-aarch64-apple-darwin.tar.gz"
-  sha256 "1bd7c0cc243a5a32177b02ce62613e663153ffd4ac7afeb085fc7fef4bb8cacd"
+  url "https://github.com/meh7an/allot/releases/download/v0.6.0/allot-0.6.0-aarch64-apple-darwin.tar.gz"
+  sha256 "ba46ae072cefd4407ea122a396865c020dcd494fe9604437d38d97cb4a6d02e9"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on arch: :arm64

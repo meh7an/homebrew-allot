@@ -1,6 +1,6 @@
 cask "allot-app" do
-  version "0.5.0"
-  sha256 "7af09d0a039caa4d6fc81c5440e1cc3dca6d1c4ebf3e4fa0f9d27b4c3b2aa304"
+  version "0.6.0"
+  sha256 "d1305e9dbf599ee020b78b2e4c2328f1080e4e5d37f163a18331386d8771b50c"
 
   url "https://github.com/meh7an/allot/releases/download/v#{version}/allot-#{version}-macos-app.zip"
   name "Allot"
